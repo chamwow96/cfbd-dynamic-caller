@@ -719,4 +719,4 @@ if st.button("🚀 Call API", type="primary", use_container_width=True):
 
 # Footer
 st.markdown("---")
-st.markdown("Built with ❤️ for CFBD data analysis | [API Documentation](https://api.collegefootballdata.com/api/docs/?url=/api-docs.json)")
+st.markdown("Built with ❤️ for CFB data analysis | [API Documentation](https://api.collegefootballdata.com/api/docs/?url=/api-docs.json)")
