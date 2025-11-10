@@ -281,7 +281,7 @@ def generate_csv_filename(api_class_name, method_name, years, teams):
 
 # Streamlit UI
 st.title("🏈 CFBD Dynamic API Caller V10")
-st.markdown("**Intelligent interface for College Football Data API**")
+st.markdown("**Easier-to-use interface for College Football Data API**")
 
 # Sidebar for API configuration
 with st.sidebar:
