@@ -1,0 +1,98 @@
+
+
+{
+    "AdjustedMetricsApi": {
+        "Adjusted Player Passing Stats": "get_adjusted_player_passing_stats",
+        "Adjusted Player Rushing Stats": "get_adjusted_player_rushing_stats",
+        "Adjusted Team Season Stats": "get_adjusted_team_season_stats",
+        "Kicker PAAR": "get_kicker_paar"
+    },
+    "BettingApi": {
+        "Get Lines": "get_lines"
+    },
+    "CoachesApi": {
+        "Get Coaches": "get_coaches"
+    },
+    "ConferencesApi": {
+        "Get Conferences": "get_conferences"
+    },
+    "DraftApi": {
+        "Draft Picks": "get_draft_picks",
+        "Draft Positions": "get_draft_positions",
+        "Draft Teams": "get_draft_teams"
+    },
+    "DrivesApi": {
+        "Get Drives": "get_drives"
+    },
+    "GamesApi": {
+        "Advanced Box Score": "get_advanced_box_score",
+        "Calendar": "get_calendar",
+        "Game Player Stats": "get_game_player_stats",
+        "Game Team Stats": "get_game_team_stats",
+        "Games": "get_games",
+        "Media": "get_media",
+        "Records": "get_records",
+        "Scoreboard": "get_scoreboard",
+        "Weather": "get_weather"
+    },
+    "InfoApi": {
+        "Get User Info": "get_user_info"
+    },
+    "MetricsApi": {
+        "Field Goal Expected Points": "get_field_goal_expected_points",
+        "Predicted Points": "get_predicted_points",
+        "Predicted Points Added By Game": "get_predicted_points_added_by_game",
+        "Predicted Points Added By Player Game": "get_predicted_points_added_by_player_game",
+        "Predicted Points Added By Player Season": "get_predicted_points_added_by_player_season",
+        "Predicted Points Added By Team": "get_predicted_points_added_by_team",
+        "Pregame Win Probabilities": "get_pregame_win_probabilities",
+        "Win Probability": "get_win_probability"
+    },
+    "PlayersApi": {
+        "Player Usage": "get_player_usage",
+        "Returning Production": "get_returning_production",
+        "Transfer Portal": "get_transfer_portal",
+        "Search Players": "search_players"
+    },
+    "PlaysApi": {
+        "Live Plays": "get_live_plays",
+        "Play Stat Types": "get_play_stat_types",
+        "Play Stats": "get_play_stats",
+        "Play Types": "get_play_types",
+        "Plays": "get_plays"
+    },
+    "RankingsApi": {
+        "Rankings": "get_rankings"
+    },
+    "RatingsApi": {
+        "Conference SP": "get_conference_sp",
+        "ELO Ratings": "get_elo",
+        "FPI Ratings": "get_fpi",
+        "SP Ratings": "get_sp",
+        "SRS Ratings": "get_srs"
+    },
+    "RecruitingApi": {
+        "Aggregated Team Recruiting Ratings": "get_aggregated_team_recruiting_ratings",
+        "Recruits": "get_recruits",
+        "Team Recruiting Rankings": "get_team_recruiting_rankings"
+    },
+    "StatsApi": {
+        "Advanced Game Stats": "get_advanced_game_stats",
+        "Advanced Season Stats": "get_advanced_season_stats",
+        "Categories": "get_categories",
+        "Game Havoc Stats": "get_game_havoc_stats",
+        "Player Season Stats": "get_player_season_stats",
+        "Team Stats": "get_team_stats"
+    },
+    "TeamsApi": {
+        "FBS Teams": "get_fbs_teams",
+        "Matchup": "get_matchup",
+        "Roster": "get_roster",
+        "Talent": "get_talent",
+        "Teams": "get_teams",
+        "Teams ATS": "get_teams_ats"
+    },
+    "VenuesApi": {
+        "Venues": "get_venues"
+    }
+}
